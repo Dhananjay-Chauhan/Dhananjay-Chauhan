@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Dhananjay-Chauhan
-- 👀 I’m interested in Web and Android Development
-- 🌱 I’m currently learning CSS 
+- 👀 I’m interested in Web and Android Development.
 - 📫 How to reach me ...
 - Reach me at
 - E-mail    : dj.0.omicron.mic@gmail.com
