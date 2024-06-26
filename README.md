@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web and Android Development.
 - 📫 How to reach me ...
 - Reach me at
-- E-mail    : dj.0.omicron.mic@gmail.com
+- E-mail    : 
 - Phone no. : 
 
 <!---
